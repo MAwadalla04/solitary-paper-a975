@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "solitary-paper-a975",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "46236baf-e6e2-4148-8ed5-935bcf60c55b",
+      "database_name": "solitary-paper-a975-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
